@@ -1,0 +1,79 @@
+Hint: * Conversion du fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\SimulAuto.dpr *
+Hint: Définitions -dBorland -dVer150 -dDelphi7 -dCompiler6_Up -dPUREPASCAL ajoutées dans les options personnalisées
+Hint: Tous les fichiers d'unités ont été trouvés
+Hint: * Ajustement des unités utilisées pour le fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\SimulAuto.dpr *
+Hint: 
+Hint: *** Conversion des fichiers unités appartenant au projet/paquet **
+Hint: * Conversion du fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\Unit1.pas *
+Hint: Codage modifié de cp1252 en "UTF-8"
+Hint: Codage modifié de cp1252 en "UTF-8"
+Hint: Ajustement de la casse des caractères de l'unité "unit4" en "Unit4".
+Hint: * Conversion du fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\Unit2.pas *
+Hint: Codage modifié de cp1252 en "UTF-8"
+Hint: * Conversion du fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\Unit3.pas *
+Hint: Codage modifié de cp1252 en "UTF-8"
+Hint: Codage modifié de cp1252 en "UTF-8"
+Hint: * Conversion du fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\Unit4.pas *
+Hint: Codage modifié de cp1252 en "UTF-8"
+Hint: Nom du fichier corrigé de unit4 en Unit4.
+Hint: * Conversion du fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\progr1.pas *
+Hint: Codage modifié de cp1252 en "UTF-8"
+Hint: Codage modifié de cp1252 en "UTF-8"
+Hint: Paquet SynEdit ajouté en tant que dépendance.
+Hint: 
+Hint: *** Conversion des fichiers unités trouvés lors de la conversion ***
+Hint: * Conversion du fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\epcWindows.pas *
+Hint: * Conversion du fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\tabassoc.pas *
+Hint: Codage modifié de cp1252 en "UTF-8"
+Hint: 
+Hint: *** Ajustement des unités utilisées et réparation des fichiers des fiches ***
+Hint: * Réparation du fichier de la fiche D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\Unit1.lfm *
+Hint: Propriété supprimée : "TextHeight".
+Hint: Propriété supprimée : "OldCreateOrder".
+Hint: Top coordonnées TListBox de "120" changées en  "118" dans TPanel.
+Hint: Left coordonnées TListBox de "8" changées en  "6" dans TPanel.
+Hint: Top coordonnées TCheckBox de "80" changées en  "78" dans TPanel.
+Hint: Left coordonnées TCheckBox de "8" changées en  "6" dans TPanel.
+Hint: Top coordonnées TCheckBox de "80" changées en  "78" dans TPanel.
+Hint: Left coordonnées TCheckBox de "48" changées en  "46" dans TPanel.
+Hint: Top coordonnées TCheckBox de "56" changées en  "54" dans TPanel.
+Hint: Left coordonnées TCheckBox de "48" changées en  "46" dans TPanel.
+Hint: Top coordonnées TCheckBox de "56" changées en  "54" dans TPanel.
+Hint: Left coordonnées TCheckBox de "8" changées en  "6" dans TPanel.
+Hint: Top coordonnées TCheckBox de "32" changées en  "30" dans TPanel.
+Hint: Left coordonnées TCheckBox de "48" changées en  "46" dans TPanel.
+Hint: Top coordonnées TCheckBox de "32" changées en  "30" dans TPanel.
+Hint: Left coordonnées TCheckBox de "8" changées en  "6" dans TPanel.
+Hint: Top coordonnées TCheckBox de "8" changées en  "6" dans TPanel.
+Hint: Left coordonnées TCheckBox de "48" changées en  "46" dans TPanel.
+Hint: Top coordonnées TCheckBox de "8" changées en  "6" dans TPanel.
+Hint: Left coordonnées TCheckBox de "8" changées en  "6" dans TPanel.
+Hint: * Ajustement des unités utilisées pour le fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\Unit1.pas *
+Hint: * Réparation du fichier de la fiche D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\Unit2.lfm *
+Hint: Propriété supprimée : "TextHeight".
+Hint: Propriété supprimée : "OldCreateOrder".
+Hint: * Ajustement des unités utilisées pour le fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\Unit2.pas *
+Hint: * Réparation du fichier de la fiche D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\Unit3.lfm *
+Hint: Propriété supprimée : "TextHeight".
+Hint: Propriété supprimée : "OldCreateOrder".
+Hint: * Ajustement des unités utilisées pour le fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\Unit3.pas *
+Hint: * Réparation du fichier de la fiche D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\Unit4.lfm *
+Hint: Propriété supprimée : "TextHeight".
+Hint: Propriété supprimée : "OldCreateOrder".
+Hint: * Ajustement des unités utilisées pour le fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\Unit4.pas *
+Hint: * Réparation du fichier de la fiche D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\progr1.lfm *
+Hint: Propriété supprimée : "WordWrap".
+Hint: Propriété supprimée : "FontSmoothing".
+Hint: Propriété supprimée : "Lines.UnicodeStrings".
+Hint: Propriété supprimée : "Gutter.Font.Style".
+Hint: Propriété supprimée : "Gutter.Font.Name".
+Hint: Propriété supprimée : "Gutter.Font.Height".
+Hint: Propriété supprimée : "Gutter.Font.Color".
+Hint: Propriété supprimée : "Gutter.Font.Charset".
+Hint: Propriété supprimée : "TextHeight".
+Hint: Propriété supprimée : "OldCreateOrder".
+Hint: * Ajustement des unités utilisées pour le fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\progr1.pas *
+Hint: * Ajustement des unités utilisées pour le fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\epcWindows.pas *
+Hint: * Ajustement des unités utilisées pour le fichier D:\mrt\techno\progs\Delphi-Lazarus\git\gph-arduino\src\src\tabassoc.pas *
+Hint: La conversion a pris : 00:00:53
+Hint: Conversion prête.

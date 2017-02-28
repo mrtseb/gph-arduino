@@ -1,0 +1,61 @@
+object frmProg: TfrmProg
+  Left = 209
+  Top = 124
+  Width = 900
+  Height = 560
+  HorzScrollBar.Position = 458
+  Align = alBottom
+  Caption = 'Programmation du PICAXE'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  WindowState = wsMaximized
+  OnShow = FormShow
+  PixelsPerInch = 96
+  object Memo1: TMemo
+    Left = -458
+    Top = 255
+    Width = 1342
+    Height = 250
+    Align = alBottom
+    Lines.Strings = (
+      'Memo1')
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 774
+    Top = 32
+    Width = 110
+    Height = 33
+    Caption = 'Compiler le fichier'
+    TabOrder = 1
+    OnClick = Button2Click
+  end
+  object SynMemo1: TSynMemo
+    Left = -458
+    Top = 0
+    Width = 1225
+    Height = 255
+    Align = alLeft
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Courier New'
+    Font.Style = []
+    TabOrder = 2
+
+  end
+  object Button1: TButton
+    Left = 771
+    Top = 72
+    Width = 113
+    Height = 33
+    Caption = 'Transférer dans le PICAXE'
+    TabOrder = 3
+    OnClick = Button1Click
+  end
+
+end

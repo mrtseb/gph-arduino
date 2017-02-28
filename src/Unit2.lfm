@@ -1,0 +1,54 @@
+object Form2: TForm2
+  Left = 285
+  Top = 148
+  Width = 607
+  Height = 536
+  Caption = 'Associer une animation flash'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  PixelsPerInch = 96
+  object ShockwaveFlash1: TAxcShockwaveFlash
+    Left = 0
+    Top = 48
+    Width = 591
+    Height = 450
+    Align = alBottom
+    TabOrder = 0
+
+  end
+  object Button1: TButton
+    Left = 8
+    Top = 8
+    Width = 145
+    Height = 33
+    Caption = 'Ouvrir une animation flash'
+    TabOrder = 1
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Left = 160
+    Top = 8
+    Width = 145
+    Height = 33
+    Caption = 'Sauvegarder'
+    TabOrder = 2
+    OnClick = Button2Click
+  end
+  object Button3: TButton
+    Left = 312
+    Top = 8
+    Width = 129
+    Height = 33
+    Caption = 'Quitter'
+    TabOrder = 3
+    OnClick = Button3Click
+  end
+  object OpenDialog1: TOpenDialog
+    Left = 536
+    Top = 8
+  end
+end
